@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/perfil"
+        android:title="Perfil"
+        android:icon="@drawable/ic_perfil"
+        />
+    <item
+        android:id="@+id/pokedexFragment"
+        android:title="Pokedex"
+        android:icon="@drawable/ic_pokeball"
+    />
+    <item
+        android:id="@+id/myPokemonFragment"
+        android:title="Guardados"
+        android:icon="@drawable/ic_pokes"
+        />
+    <item
+        android:id="@+id/aleatorioFragment"
+        android:title="Aleatotio"
+        android:icon="@drawable/ic_random"
+        />
+</menu>
